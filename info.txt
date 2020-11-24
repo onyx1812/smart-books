@@ -1,0 +1,20 @@
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: smart-books.org
+| Ip: 192.64.112.139 (n)
+| HasCgi: y
+| UserName: smartbooks
+| PassWord: 9J8iak45@
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: unlimited
+| NameServer1: ns1.bcommerce.website
+| NameServer2: ns2.bcommerce.website
+| NameServer3:
+| NameServer4:
+| Contact Email: onyx18121990@gmail.com
+| Package: default
+| Feature List: default
+| Language: en
++===================================+

@@ -1,1 +1,3 @@
-# smart-books
+Work commands:
+*npm install*
+*gulp*
